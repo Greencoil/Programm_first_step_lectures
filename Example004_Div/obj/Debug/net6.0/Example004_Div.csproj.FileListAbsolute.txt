@@ -1,0 +1,15 @@
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+D:\Обучение программированию\Examples_main\Examples\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll

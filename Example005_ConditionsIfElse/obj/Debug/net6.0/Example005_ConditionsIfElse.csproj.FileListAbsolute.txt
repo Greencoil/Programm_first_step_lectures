@@ -1,0 +1,15 @@
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\bin\Debug\net6.0\Example005_ConditionsIfElse.exe
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\bin\Debug\net6.0\Example005_ConditionsIfElse.deps.json
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\bin\Debug\net6.0\Example005_ConditionsIfElse.runtimeconfig.json
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\bin\Debug\net6.0\Example005_ConditionsIfElse.dll
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\bin\Debug\net6.0\Example005_ConditionsIfElse.pdb
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.csproj.AssemblyReference.cache
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.AssemblyInfoInputs.cache
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.AssemblyInfo.cs
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.csproj.CoreCompileInputs.cache
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.dll
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\refint\Example005_ConditionsIfElse.dll
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.pdb
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\Example005_ConditionsIfElse.genruntimeconfig.cache
+D:\Обучение программированию\Examples_main\Examples\Example005_ConditionsIfElse\obj\Debug\net6.0\ref\Example005_ConditionsIfElse.dll

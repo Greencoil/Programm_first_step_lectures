@@ -1,0 +1,15 @@
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\bin\Debug\net6.0\Examples008_Intro_Method.exe
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\bin\Debug\net6.0\Examples008_Intro_Method.deps.json
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\bin\Debug\net6.0\Examples008_Intro_Method.runtimeconfig.json
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\bin\Debug\net6.0\Examples008_Intro_Method.dll
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\bin\Debug\net6.0\Examples008_Intro_Method.pdb
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.csproj.AssemblyReference.cache
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.AssemblyInfoInputs.cache
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.AssemblyInfo.cs
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.csproj.CoreCompileInputs.cache
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.dll
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\refint\Examples008_Intro_Method.dll
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.pdb
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\Examples008_Intro_Method.genruntimeconfig.cache
+D:\Обучение программированию\C#Lections\Examples\Examples008_Intro_Method\obj\Debug\net6.0\ref\Examples008_Intro_Method.dll

@@ -54,5 +54,5 @@ string Method4(int count, string text)
     }
     return result;
 }
-string res = Method4(10, "1a");
-Console.WriteLine(res);
+// string res = Method4(10, "1a");
+// Console.WriteLine(res);
